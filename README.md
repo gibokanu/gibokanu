@@ -3,6 +3,8 @@
 **Senior Software Developer · Backend and Full-Stack Engineer**
 Makeni, Sierra Leone
 
+Portfolio: https://gibrilla-kanu-portfolio.vercel.app
+
 I design, build, and deliver practical software: scalable applications, reliable backend systems, and the engineering work that turns an idea into something a team can run.
 
 ## What I work on
@@ -29,6 +31,7 @@ Bachelor of Science in Computer Science, University of Makeni, 2015–2020. Prin
 
 ## Contact
 
+- Portfolio: https://gibrilla-kanu-portfolio.vercel.app
 - Email: gikanu694@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gi-kanu-b7262a247/
 - WhatsApp: https://wa.me/23278278531
